@@ -1,0 +1,13 @@
+/* Navbar.module.css */
+.sidebar {
+    background-color: #f1f1f1;
+    display: flex;
+  }
+
+.menusize{
+    font-size: '1.6rem';
+}
+
+.menuhover:hover{
+    background-color: rgb(55, 55, 54);
+}
